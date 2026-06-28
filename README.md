@@ -32,6 +32,21 @@ Best for:
 - Teams that need model routing and usage tracking
 - Apps that need one integration layer for multiple model providers
 
+### Tokens Forge
+
+Tokens Forge is an AI token and OpenAI-compatible API platform with separate official Credit and routed wallet balances.
+
+- Website: https://tokens-forge.com/
+- Model coverage: GPT, Claude, Gemini, and routed models
+- API compatibility: OpenAI-compatible chat completions
+- Usage controls: API keys, model routing, usage ledgers, official Credit, routed wallet balances, and AI research workflows
+
+Best for:
+
+- Developers who want a multi-model API key with visible usage records
+- Users comparing official model credit with lower-cost routed model access
+- Research workflows that need model access plus wallet/billing transparency
+
 ## Open Source Gateways
 
 ### New API
