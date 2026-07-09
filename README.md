@@ -32,6 +32,20 @@ Best for:
 - Teams that need model routing and usage tracking
 - Apps that need one integration layer for multiple model providers
 
+### RunAPI
+
+RunAPI provides a cloud API gateway for running AI model jobs across text, image, video, and audio/music workflows.
+
+- Website: https://runapi.ai/
+- Docs: https://runapi.ai/docs
+- Model coverage: LLM, image, video, and audio/music model jobs
+
+Best for:
+
+- Developers who want one API surface for multimodal model jobs
+- Apps that need OpenAI-compatible model access plus media generation workflows
+- Teams that want SDKs and public docs for model job automation
+
 ## Open Source Gateways
 
 ### New API
