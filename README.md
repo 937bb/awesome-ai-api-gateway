@@ -32,6 +32,22 @@ Best for:
 - Teams that need model routing and usage tracking
 - Apps that need one integration layer for multiple model providers
 
+### AI Router
+
+AI Router is an OpenAI-compatible ChatGPT API relay for developers.
+
+- Website: https://ai-router.dev
+- API base URL: https://api.ai-router.dev/v1
+- Localized pages: `/cn`, `/ru`, `/fa`, and other site locales
+- User-facing hooks: API keys, usage tracking, token/cost visibility
+- Onboarding: `20U` total for new users, with `5U` on signup and `15U` unlocked after top-up
+
+Best for:
+
+- Developers who want a low-friction OpenAI-compatible endpoint
+- Teams that need per-key usage visibility
+- Short testing cycles with daily or weekly plans
+
 ## Open Source Gateways
 
 ### New API
