@@ -32,6 +32,23 @@ Best for:
 - Teams that need model routing and usage tracking
 - Apps that need one integration layer for multiple model providers
 
+
+### DaoXE
+
+DaoXE is a multi-model multi-protocol AI API gateway for developers.
+
+- Website: https://daoxe.com
+- Pricing: https://daoxe.com/pricing
+- Examples: https://github.com/seven7763/DaoXE-AI
+- Protocols: OpenAI Chat Completions, OpenAI Responses, Anthropic Messages, image-generation-compatible endpoints
+- Notes: Not OpenAI-only and not Claude-only; not available in mainland China
+
+Best for:
+
+- Developers who want multi-protocol endpoints through one gateway
+- Apps that need to switch models without rewriting the integration layer
+- Teams comparing latency, cost, and model quality from a current catalog
+
 ## Open Source Gateways
 
 ### New API
